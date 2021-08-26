@@ -8,15 +8,15 @@
 # 1. Criando uma sala 
 <p><b>Você é redirecionado para a visão de admin da mesma podendo dar highlight em perguntas, marcar como respondidas, apagá-las e encerrar a sala.</b></p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/512774464962822152/880523963925663764/1CreateRoom.gif" width="800" height="400"/>
-  <img src="https://cdn.discordapp.com/attachments/512774464962822152/880523975854280734/2Admin.gif" width="800" height="400"/>
-  <img src="https://cdn.discordapp.com/attachments/512774464962822152/880528002784571432/2021-08-26-16-02-38.gif" width="800" height="400"/>
+  <img src="https://cdn.discordapp.com/attachments/512774464962822152/880523963925663764/1CreateRoom.gif" width="900" height="500"/>
+  <img src="https://cdn.discordapp.com/attachments/512774464962822152/880523975854280734/2Admin.gif" width="900" height="500"/>
+  <img src="https://cdn.discordapp.com/attachments/512774464962822152/880528002784571432/2021-08-26-16-02-38.gif" width="900" height="500"/>
 </p>
 
 # 2. Entrando uma sala
 <p><b>Ao entrar em uma sala você pode fazer uma pergunta e dar like na mesma ou em outras perguntas</b></p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/512774464962822152/880523984230305812/3User.gif" width="800" height="400"/>
+  <img src="https://cdn.discordapp.com/attachments/512774464962822152/880523984230305812/3User.gif" width="900" height="500"/>
 </p>
 
 ## :pushpin: Descrição
