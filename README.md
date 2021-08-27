@@ -13,7 +13,7 @@
   <img src="https://cdn.discordapp.com/attachments/512774464962822152/880528002784571432/2021-08-26-16-02-38.gif" width="900" height="500"/>
 </p>
 
-# 2. Entrando uma sala
+# 2. Entrando em uma sala
 <p><b>Ao entrar em uma sala você pode fazer uma pergunta e dar like na mesma ou em outras perguntas</b></p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/512774464962822152/880523984230305812/3User.gif" width="900" height="500"/>
