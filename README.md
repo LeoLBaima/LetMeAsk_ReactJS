@@ -35,10 +35,10 @@
 
 ``` 
 // Clonar o repositorio:
-$ git clone 'https://github.com/nicholasscabral/Covid-tracker.git'
+$ git clone 'https://github.com/LeoLBaima/LetMeAsk_ReactJS.git'
 
 // Entre na pasta
-$ cd Covid-tracker
+$ cd LetMeAsk_ReactJS
 
 // Instale as dependencias
 $ yarn install
