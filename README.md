@@ -21,7 +21,7 @@
 
 ## :pushpin: Descrição
 <p>Let me ask é uma aplicação focada em responder Q&A de pessoas que estão fazendo live ou gravando vídeo respondendo perguntas.</p>
-<p>O desing do projeto caso queira ver <a href="https://www.figma.com/file/FrIBhZziGqyMZJ8mzV7es8/Letmeask?node-id=0%3A1">Figma</a>.</p>
+<p>O design do projeto caso queira ver: <a href="https://www.figma.com/file/FrIBhZziGqyMZJ8mzV7es8/Letmeask?node-id=0%3A1">Figma</a>.</p>
 <p>O link do <a href="https://letmeask-nlw-49d49.web.app">deploy</a></p>
 
 ## :construction_worker: Feito com
