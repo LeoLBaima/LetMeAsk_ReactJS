@@ -32,7 +32,6 @@
 </ul>
 
 # :triangular_flag_on_post: Como rodar 
-
 ``` 
 // Clonar o repositorio:
 $ git clone 'https://github.com/LeoLBaima/LetMeAsk_ReactJS.git'
@@ -45,5 +44,4 @@ $ yarn install
 
 // Rode a aplicação
 $ yarn start
-
 ```
